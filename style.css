@@ -1,0 +1,53 @@
+body {
+  background-image: url(./trust-tru-katsande-0P02R8xSPCc-unsplash.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+label {
+  display: block;
+  margin: 20px;
+}
+div {
+  background-color: rgba(139, 69, 19, 0.671);
+  position: absolute;
+  border-radius: 20px;
+  color: bisque;
+  margin: auto;
+  padding: 20px;
+  left: 40%;
+  top: 29%;
+}
+button {
+  border-radius: 20px;
+  background-color: bisque;
+  color: saddlebrown;
+    width: 300px;
+    margin-top: 10px;
+    
+    cursor: pointer;
+}
+span{
+  text-align: center;
+}
+textarea{
+    margin-left: 15%;
+    background-color: bisque;
+    border: none;
+    border-radius: 10px;
+}
+h1{
+    color: bisque;
+    font-family: 'Smooch', cursive;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 10px 10px 20px blueviolet,
+                10px 15px 30px gold;
+}
+input{
+    border: none;
+    border-radius: 20px;
+    background-color: bisque;
+}
+button:hover{
+    box-shadow: 5px 5px 10px bisque;}
