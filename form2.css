@@ -55,7 +55,7 @@ input{
     padding: 8px;
 }
 p{
-    margin-left: 10px;
+    
     font-weight: 500;
    
 }
@@ -67,14 +67,18 @@ img{
 #footer{
     text-align: center;
     position: fixed;
-    left: 35%;
+    left: 38%;
     bottom: 0;
     margin-bottom: 30px;
 }
 #social{
-    font-weight: 600;
+    font-weight: 500;
 
 }
 .color{
     color: red;
+}
+#k{
+    font-size: small;
+    
 }
