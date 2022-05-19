@@ -8,6 +8,8 @@ a{
 label{
     display: block;
     margin: 8px;
+    font-family: "Inter", sans-serif;
+
 }
 button{
     display: block;
@@ -19,6 +21,8 @@ button{
     color: white;
     border-radius: 5px;
     cursor: pointer;
+    font-family: "Inter", sans-serif;
+
 }
 div{
     width: 300px;
